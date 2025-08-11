@@ -1,1 +1,1 @@
-# ToDo-App-GuiBased
+This Java To-Do List Application is a simple yet effective desktop app that allows users to create, manage, and remove tasks. Built with a Graphical User Interface (GUI) using Java Swing, it demonstrates the CRUD (Create, Read, Update, Delete) operations in a clean and user-friendly way.
