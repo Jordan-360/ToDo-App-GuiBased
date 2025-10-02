@@ -18,4 +18,7 @@ Built with a **Graphical User Interface (GUI)** using **Java Swing**, it demonst
 - Java 8+  
 - Java Swing for GUI  
 - Object-Oriented Programming (OOP)  
-- Collections (e.g., `ArrayList`) to store tasks  
+- Collections (e.g., `ArrayList`) to store tasks
+
+---
+
